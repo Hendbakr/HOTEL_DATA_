@@ -33,3 +33,18 @@ required_car_parking_spaces: Number of car parking spaces required by the custom
 total_of_special_requests: Number of special requests made by the customer (e.g. twin bed or high floor)
 reservation_status: Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why
 reservation_status_date: Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
+# QUESTIONS 
+-- Q1: What is the profit percentage for each month across all years?
+-- Q2: Which meals and market segments (e.g., families, corporate clients, etc.) contribute the most to the total revenue for each hotel annually?
+-- Q3: How does revenue compare between public holidays and regular days each year?
+-- Q4: What are the key factors (e.g., hotel type, market type, meals offered, number of nights booked) significantly impact hotel revenue annually?
+-- Q5: Based on stay data, what are the yearly trends in customer preferences for room types (e.g., family rooms vs. single rooms), and how do these preferences influence revenue?
+-- Q6: What is the distribution of customers by country and how does it impact revenue?
+-- Q7: What are the most requested room types annually?
+-- Q8: How Many Bookings Were Cancelled?
+-- Q9: How Long Do People Stay in the Hotel?
+-- Q10: Count the number of required car parking spaces?
+-- Q11: Number of reservations per month ?
+
+
+
